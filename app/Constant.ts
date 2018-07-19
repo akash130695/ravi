@@ -1,0 +1,1 @@
+export const selfServe = 'https://www.gogagga.com/MobileApp/';
